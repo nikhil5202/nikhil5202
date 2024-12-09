@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Nikhil Srivastava </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Aspiring+Software+Developer;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste..&hearts;++;SDE+I,;GoLang+Developer,;Ex-Python+&+AI+Developer,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -17,11 +17,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- I aspire to be a Software Developer
-- Currently developing own bot "Genius-Bot" as a project
-- Now a days, I am learning Web Development by Self
-- I’m looking forward for an Internship or a new job opportunity
+- Software Developer specializing in Python, AI, and Golang, with a strong foundation in MCA
+- Worked at Mobiloitte Technologies Pvt. Ltd. on various tech projects.
+- Passionate about technology, with a focus on building a tech-driven business and improving coding practices.
+- Strong knowledge of Python, Golang, Databricks, and web development, with a keen interest in AI.
 
 <br><br>
 
@@ -34,10 +33,11 @@
 
 - **Languages**:
     
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Go](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <br>   
     
